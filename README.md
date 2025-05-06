@@ -1,6 +1,6 @@
 # An open-source 3D printed, Gun Aiming Laser!
 I'm aiming to bin off the battery compartment (replace with an XT-30), and the external switch connector for a 3.5mm jack socket or something.
-also metric everything.
+and also reverse engineer the circuit and share the kicad project files.
 -spiderwebby
 
 <details><summary>How do I download the files from GitHub?</summary>
